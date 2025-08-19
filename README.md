@@ -2,7 +2,7 @@
 
 
 
-## New heading
+## New head
 Adding a new heading hereee
 
 ## New heading
